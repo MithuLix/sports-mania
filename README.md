@@ -1,5 +1,7 @@
 # Sports Mania
-Site is deployed here - (https://sports-mania-mithulix.herokuapp.com/).
+
+Site is deployed here - https://sports-mania-mithulix.herokuapp.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
