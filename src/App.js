@@ -25,7 +25,11 @@ function App() {
             <Route path="/allleague">
                 <AllLeague />
             </Route>
+<<<<<<< HEAD
             <Route path="/SingleLeague/:id">
+=======
+            <Route path="/SingleLeague/:idTeam">
+>>>>>>> 25176c5d9f4292526ff930c75f9b61725d129707
                 <SingleLeague />
             </Route>
             <Route path="*">
